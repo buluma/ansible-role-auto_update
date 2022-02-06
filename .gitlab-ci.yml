@@ -58,7 +58,6 @@ testing:
       - image: "docker-ubuntu-systemd"
         tag: "bionic"
 
-
 galaxy:
   script:
-    - ansible-galaxy role info ${CI_PROJECT_NAMESPACE}.auto_update
+    - ansible-galaxy role info buluma.auto_update
