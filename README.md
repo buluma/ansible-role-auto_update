@@ -2,9 +2,9 @@
 
 Install and configure automatic package updates on your system.
 
-|GitHub|GitLab|Quality|Downloads|Version|
-|------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-auto_update/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-auto_update/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-auto_update/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-auto_update)|[![quality](https://img.shields.io/ansible/quality/57875)](https://galaxy.ansible.com/buluma/auto_update)|[![downloads](https://img.shields.io/ansible/role/d/57875)](https://galaxy.ansible.com/buluma/auto_update)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-auto_update.svg)](https://github.com/buluma/ansible-role-auto_update/releases/)|
+|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|---------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-auto_update/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-auto_update/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-auto_update/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-auto_update)|[![quality](https://img.shields.io/ansible/quality/57875)](https://galaxy.ansible.com/buluma/auto_update)|[![downloads](https://img.shields.io/ansible/role/d/57875)](https://galaxy.ansible.com/buluma/auto_update)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-auto_update.svg)](https://github.com/buluma/ansible-role-auto_update/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-auto_update.svg)](https://github.com/buluma/ansible-role-auto_update/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr/buluma/ansible-role-auto_update.svg)](https://github.com/buluma/ansible-role-auto_update/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
