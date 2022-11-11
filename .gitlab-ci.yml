@@ -1,12 +1,12 @@
 ---
 image: "buluma/github-action-molecule:5.0.0"
 
-# services:
-#   - docker:dind
-#
-# variables:
-#   DOCKER_HOST: "tcp://docker:2375"
-#   PY_COLORS: 1
+services:
+  - docker:dind
+
+variables:
+  DOCKER_HOST: "tcp://docker:2375"
+  PY_COLORS: 1
 
 variables:
   PY_COLORS: 1
