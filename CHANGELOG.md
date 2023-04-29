@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-auto_update/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-auto_update/compare/1.0.9...HEAD)
+
+**Merged pull requests:**
+
+- Bump buluma/molecule-action from 5.0.1 to 5.0.4 [\#12](https://github.com/buluma/ansible-role-auto_update/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [1.0.9](https://github.com/buluma/ansible-role-auto_update/tree/1.0.9) (2022-11-11)
 
 [Full Changelog](https://github.com/buluma/ansible-role-auto_update/compare/1.0.8...1.0.9)
