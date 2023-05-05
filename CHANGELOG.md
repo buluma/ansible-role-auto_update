@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-auto_update/tree/HEAD)
+## [1.0.10](https://github.com/buluma/ansible-role-auto_update/tree/1.0.10) (2023-04-29)
 
-[Full Changelog](https://github.com/buluma/ansible-role-auto_update/compare/1.0.9...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-auto_update/compare/1.0.9...1.0.10)
 
 **Merged pull requests:**
 
