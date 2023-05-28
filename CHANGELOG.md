@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.0.0](https://github.com/buluma/ansible-role-auto_update/tree/2.0.0) (2023-05-05)
+
+[Full Changelog](https://github.com/buluma/ansible-role-auto_update/compare/1.0.10...2.0.0)
+
 ## [1.0.10](https://github.com/buluma/ansible-role-auto_update/tree/1.0.10) (2023-04-29)
 
 [Full Changelog](https://github.com/buluma/ansible-role-auto_update/compare/1.0.9...1.0.10)
