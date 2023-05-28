@@ -5,4 +5,4 @@
 repository:
   description: Install and configure automatic package updates on your system.
   homepage: https://buluma.github.io/
-  topics: autoupdate, security, ansible, molecule, tox, playbook, hacktoberfest
+  topics: autoupdate, security, ansible, molecule, tox, playbook
