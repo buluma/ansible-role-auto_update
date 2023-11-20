@@ -1,5 +1,14 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-auto_update/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-auto_update/compare/2.0.0...HEAD)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#18](https://github.com/buluma/ansible-role-auto_update/issues/18)
+- Update action [\#17](https://github.com/buluma/ansible-role-auto_update/issues/17)
+
 ## [2.0.0](https://github.com/buluma/ansible-role-auto_update/tree/2.0.0) (2023-05-05)
 
 [Full Changelog](https://github.com/buluma/ansible-role-auto_update/compare/1.0.10...2.0.0)
