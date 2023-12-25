@@ -6,6 +6,9 @@
 
 **Closed issues:**
 
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#23](https://github.com/buluma/ansible-role-auto_update/issues/23)
+- Update action [\#22](https://github.com/buluma/ansible-role-auto_update/issues/22)
+- rebuild action [\#21](https://github.com/buluma/ansible-role-auto_update/issues/21)
 - Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#18](https://github.com/buluma/ansible-role-auto_update/issues/18)
 - Update action [\#17](https://github.com/buluma/ansible-role-auto_update/issues/17)
 
