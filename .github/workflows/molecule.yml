@@ -60,6 +60,8 @@ jobs:
           - image: "docker-ubuntu-systemd"
             tag: "focal"
           - image: "docker-ubuntu-systemd"
+            tag: "bionic"
+          - image: "docker-ubuntu-systemd"
             tag: "lunar"
     steps:
       - name: checkout
