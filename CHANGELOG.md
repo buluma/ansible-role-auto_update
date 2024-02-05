@@ -1,5 +1,17 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-auto_update/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-auto_update/compare/2.2.0...HEAD)
+
+**Implemented enhancements:**
+
+- Configure Renovate [\#28](https://github.com/buluma/ansible-role-auto_update/pull/28) ([renovate[bot]](https://github.com/apps/renovate))
+
+**Merged pull requests:**
+
+- Bump release-drafter/release-drafter from 5 to 6 [\#30](https://github.com/buluma/ansible-role-auto_update/pull/30) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [2.2.0](https://github.com/buluma/ansible-role-auto_update/tree/2.2.0) (2024-01-20)
 
 [Full Changelog](https://github.com/buluma/ansible-role-auto_update/compare/2.1.0...2.2.0)
