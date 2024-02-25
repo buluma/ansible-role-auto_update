@@ -2,22 +2,23 @@
 # tasks file for auto_update
 
 - name: Import assert.yml
-  ansible.builtin.import_tasks: assert.yml
+  ansible.builtin.import_tasks:
+    file: assert.yml
   run_once: yes
   delegate_to: localhost
 
-- name: Install packages.
+- name: Install packages
   ansible.builtin.package:
     name: "{{ auto_update_packages }}"
     state: present
 
-- name: Configure auto_update.
+- name: Configure auto_update
   ansible.builtin.template:
     src: "{{ auto_update_config_file }}.j2"
     dest: "{{ auto_update_config_directory }}/{{ auto_update_config_file }}"
     mode: "0644"
 
-- name: Start and enable auto_update.
+- name: Start and enable auto_update
   ansible.builtin.service:
     name: "{{ item }}"
     state: started
