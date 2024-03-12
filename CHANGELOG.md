@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-auto_update/tree/HEAD)
+## [24.2.25](https://github.com/buluma/ansible-role-auto_update/tree/24.2.25) (2024-02-25)
 
-[Full Changelog](https://github.com/buluma/ansible-role-auto_update/compare/2.2.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-auto_update/compare/2.2.0...24.2.25)
 
 **Implemented enhancements:**
 
