@@ -63,8 +63,6 @@ jobs:
           - image: "docker-molecule-images"
             tag: "40"
           - image: "docker-molecule-images"
-            tag: "rawhide"
-          - image: "docker-molecule-images"
             tag: "ubuntu_latest"
           - image: "docker-molecule-images"
             tag: "focal"
