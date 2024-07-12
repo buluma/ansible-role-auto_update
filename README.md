@@ -49,14 +49,14 @@ The default values for the variables are set in [`defaults/main.yml`](https://gi
 auto_update_update_cmd: default
 
 # (RedHat like systems only) Whether a message should be emitted when updates are available, were downloaded, or applied.
-auto_update_message: no
+auto_update_message: false
 
 # Whether updates should be downloaded when they are available.
-auto_update_download_updates: yes
+auto_update_download_updates: true
 
 # Whether updates should be applied when they are available.  Note
 # that download_updates must also be yes for the update to be applied.
-auto_update_apply_updates: no
+auto_update_apply_updates: false
 
 # Maximum amout of time to randomly sleep, in minutes.
 auto_update_random_sleep: 360
