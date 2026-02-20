@@ -1,5 +1,4 @@
 ---
-
 - name: assert | Test auto_update_update_cmd
   ansible.builtin.assert:
     that:
