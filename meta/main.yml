@@ -10,17 +10,17 @@ galaxy_info:
     - name: EL
       versions:
         - all
-  - name: Debian
-    versions:
-    - all
-  - name: Fedora
-    versions:
-    - all
-  - name: Ubuntu
-    versions:
-    - all
+    - name: Debian
+      versions:
+        - all
+    - name: Fedora
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
   galaxy_tags:
     - autoupdate
-  - security
-  - system
+    - security
+    - system
 dependencies: []
