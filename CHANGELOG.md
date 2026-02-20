@@ -6,7 +6,6 @@
 
 **Merged pull requests:**
 
-- Bump actions/checkout from 4 to 6 [\#37](https://github.com/buluma/ansible-role-auto_update/pull/37) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/dependabot-auto-merge-action from 2.1.2 to 2.1.3 [\#35](https://github.com/buluma/ansible-role-auto_update/pull/35) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [24.3.31](https://github.com/buluma/ansible-role-auto_update/tree/24.3.31) (2024-03-29)
